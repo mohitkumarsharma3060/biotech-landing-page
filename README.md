@@ -19,7 +19,7 @@ CytoMatrix — Next-Generation Biotech Landing Page
 A premium, interactive, animation-driven biotechnology landing page built with Next.js, React Three Fiber (Three.js), Framer Motion, and Tailwind CSS.
 
 🚀 Live Demo & Repository
-<!-- Live Site: [https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app) (Replace with your deployed URL) -->
+ Live Site: [[https://your-deployment-url.vercel.app](https://biotech-landing-page-mohitkumarsharma3060s-projects.vercel.app/)]([https://your-deployment-url.vercel.app](https://biotech-landing-page-mohitkumarsharma3060s-projects.vercel.app/)) 
 
 GitHub Repository: [https://github.com/mohitkumarsharma3060/biotech-landing-page](https://github.com/mohitkumarsharma3060/biotech-landing-page) 
 
@@ -101,9 +101,9 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 
-<!-- 
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. -->
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. 
