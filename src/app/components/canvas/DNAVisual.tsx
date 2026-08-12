@@ -5,7 +5,8 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import { Points, PointMaterial } from "@react-three/drei";
 
 function ParticleSwarm(props: any) {
-  const ref = useRef<any>();
+ // ✅ Fixed:
+const ref = useRef<any>(null);
   
   // Native math function to generate points inside a sphere
   // This completely bypasses the Turbopack/maath bug
